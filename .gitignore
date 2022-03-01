@@ -129,5 +129,3 @@ dmypy.json
 .pyre/
 
 firebase_Init.py
-
-*.json
