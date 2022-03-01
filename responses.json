@@ -1,0 +1,49 @@
+{
+    "hello":{
+        "hi":"Hey there!",
+        "hola":"Hola!",
+        "bonjour":"Bonjour!",
+        "helo":"Hello! How are you?",
+        "hello":"Hello! How is your day going?"
+    },
+    "bye":{
+        "bye":"Bye!",
+        "adios":"Adios!",
+        "au revoir":"Au revoir!"
+    },
+    "thanks":{
+        "thanks":"You're welcome!",
+        "gracias":"Gracias!",
+        "thank you":"Thank you!"
+    },
+    "what":{
+        "what":"Huh?",
+        "wt":"Yes.",
+        "wat":"Lol, you don't get it?",
+        "wut":"Wdym 'wut', I mean what I said."
+    },
+    "how":{
+        "how":"You wanna know?",
+        "how are you":"I'm fine, thanks.",
+        "how are you doing":"I'm fine, thanks.",
+        "how are you doing today":"I'm fine, thanks.",
+        "hru":"I'm fine, thanks.",
+        "hrdt":"I'm fine, thanks.",
+        "how r u":"I'm fine, thanks.",
+        "how r u doing":"I'm fine, thanks.",
+        "how r u doing today":"I'm fine, thanks.",
+        "how r you":"I'm fine, thanks.",
+        "how r you doing":"I'm fine, thanks.",
+        "how r you doing today":"I'm fine, thanks.",
+        "how are u":"I'm fine, thanks.",
+        "how are u doing":"I'm fine, thanks.",
+        "how are u doing today":"I'm fine, thanks."
+    },
+    "who":{
+        "who":"I don't know.",
+        "who are you":"I'm a bot.",
+        "who r u":"I'm a bot.",
+        "who r you":"I'm a bot.",
+        "who are u":"I'm a bot."
+    }
+}
