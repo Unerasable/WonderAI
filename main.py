@@ -1,6 +1,6 @@
 import json
 
-with open('responses.json') as f:
+with open('./data/responses.json') as f:
     data = json.load(f)
 
 while True:

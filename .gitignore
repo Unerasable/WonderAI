@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 
 firebase_Init.py
+
+application.py
+
+admin.py
+data/
+responses.json
